@@ -1,0 +1,14 @@
+2025-03-16 21:19:37,381 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-02
+2025-03-16 21:23:09,445 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-02
+2025-03-17 20:18:48,028 - db_helper - INFO - fetch_monthly_expense_summary called
+2025-03-17 20:18:58,771 - db_helper - INFO - fetch_monthly_expense_summary called
+2025-03-17 20:23:04,474 - db_helper - INFO - fetch_monthly_expense_summary called for month: 2024-09
+2025-03-17 20:23:13,003 - db_helper - INFO - fetch_monthly_expense_summary called for month: 2024-08
+2025-03-17 20:25:15,265 - db_helper - INFO - fetch_monthly_expense_summary called for month: 2024-08
+2025-03-17 20:26:15,332 - db_helper - INFO - fetch_monthly_expense_summary called for month: 2024-08
+2025-03-17 20:26:37,453 - db_helper - INFO - fetch_monthly_expense_summary called for month: 2024-08
+2025-03-17 20:26:55,248 - db_helper - INFO - fetch_monthly_expense_summary called for month: 2024-08
+2025-03-17 20:43:19,896 - db_helper - INFO - fetch_monthly_expense_summary called for all months
+2025-03-17 20:43:27,374 - db_helper - INFO - fetch_monthly_expense_summary called for all months
+2025-03-17 20:46:13,048 - db_helper - INFO - fetch_monthly_expense_summary called for all months
+2025-03-17 20:47:49,528 - db_helper - INFO - fetch_monthly_expense_summary called for all months
